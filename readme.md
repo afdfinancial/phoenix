@@ -2,7 +2,7 @@
 
 ### Description
 
-A reincarnation of Black Wall Street inside of the metaverse
+A reincarnation of the ecosystem within of the metaverse
 
 #### Built With
 
